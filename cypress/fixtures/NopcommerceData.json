@@ -1,0 +1,19 @@
+{
+  "fullName": "Automation Cypress",
+  "firstName": "Automation",
+  "lastName": "Cypress",
+  "email": "testauto@email.com",
+  "password": "Password1",
+  "deviceName": "HTC One Mini Blue",
+  "country": "United States",
+  "state": "Texas",
+  "city": "Houston",
+  "postalCode": "77239",
+  "address":"Test street 123",
+  "phoneNumber": "012239944491",
+  "creditCardNumber": "4242424242424242",
+  "cvc": "123",
+  "expirationMonth": "02",
+  "expirationYear": "2023"
+
+}
